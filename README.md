@@ -6,11 +6,10 @@ Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast fro
 
 - **Name:** [Karunya Reddy]
 - **College/University:** National Institute of Technology, Jamshedpur
-- **Major:** [CSE]
-- **Graduation Year:** [2026]
-- **Location:** [Hyderabad]
-<svg width="100" xmlns="https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ">
-</svg>
+- **Major:** CSE
+- **Graduation Year:** 2026
+- **Location:** Hyderabad
+
 
 ## Skills
 
@@ -19,7 +18,7 @@ Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast fro
 - **Data Structures & Algorithms:** Proficient in problem-solving and algorithmic challenges
 - **Other Skills:** Git,  REST APIs
 
-
+## Stats
 
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KarunyaReddyJ&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ)
@@ -27,10 +26,10 @@ Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast fro
 ![Trophies on GitHub](https://github-profile-trophy.vercel.app/?username=KarunyaReddyJ&theme=onedark)
 ## Projects
 
-### [Project Title 1]
+### [Quiz Application] (https://github.com/KarunyaReddyJ/QuizApplication.git)
 Description of the project, what technologies were used, what problems it solves, and any other interesting details.
 
-### [Project Title 2]
+### [Simple Social Media Application] (https://github.com/KarunyaReddyJ/SocialMediaApplication.git)
 Description of the project, what technologies were used, what problems it solves, and any other interesting details.
 
 ### [Project Title 3]
@@ -43,10 +42,5 @@ Description of the project, what technologies were used, what problems it solves
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
 
-## Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 Thank you for visiting my profile!
