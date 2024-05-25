@@ -1,16 +1,48 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**KarunyaReddyJ/KarunyaReddyJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast from NIT Jamshedpur. I am excited about software development, web development, and solving algorithmic challenges.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** [Karunya Reddy]
+- **College/University:** National Institute of Technology, Jamshedpur
+- **Major:** [CSE]
+- **Graduation Year:** [2026]
+- **Location:** [Hyderabad]
+
+## Skills
+
+- **Programming Languages:** JavaScript, Python, C++
+- **Web Development:** MongoDB, Express.js, React.js, Node.js
+- **Data Structures & Algorithms:** Proficient in problem-solving and algorithmic challenges
+- **Other Skills:** Git,  REST APIs
+
+[Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KarunyaReddyJ&layout=compact)
+[text](https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ)
+[text](https://github-readme-activity-graph.vercel.app/graph?username=KarunyaReddyJ&theme=dracula)
+[text](https://github-profile-trophy.vercel.app/?username=KarunyaReddyJ&theme=onedark)
+## Projects
+
+### [Project Title 1]
+Description of the project, what technologies were used, what problems it solves, and any other interesting details.
+
+### [Project Title 2]
+Description of the project, what technologies were used, what problems it solves, and any other interesting details.
+
+### [Project Title 3]
+Description of the project, what technologies were used, what problems it solves, and any other interesting details.
+
+## Contact Me
+
+- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile URL]
+
+Feel free to reach out if you want to collaborate on a project or just want to connect!
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+Thank you for visiting my profile!
