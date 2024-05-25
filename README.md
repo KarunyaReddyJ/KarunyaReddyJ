@@ -21,10 +21,10 @@ Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast fro
 
 
 
-[Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KarunyaReddyJ&layout=compact)
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ)
-[Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarunyaReddyJ&theme=dracula)
-[Trophies on GitHub](https://github-profile-trophy.vercel.app/?username=KarunyaReddyJ&theme=onedark)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KarunyaReddyJ&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarunyaReddyJ&theme=dracula)
+![Trophies on GitHub](https://github-profile-trophy.vercel.app/?username=KarunyaReddyJ&theme=onedark)
 ## Projects
 
 ### [Project Title 1]
