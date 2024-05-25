@@ -9,6 +9,8 @@ Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast fro
 - **Major:** [CSE]
 - **Graduation Year:** [2026]
 - **Location:** [Hyderabad]
+<svg width="100" xmlns="https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ">
+</svg>
 
 ## Skills
 
@@ -16,6 +18,8 @@ Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast fro
 - **Web Development:** MongoDB, Express.js, React.js, Node.js
 - **Data Structures & Algorithms:** Proficient in problem-solving and algorithmic challenges
 - **Other Skills:** Git,  REST APIs
+
+
 
 [Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KarunyaReddyJ&layout=compact)
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarunyaReddyJ)
