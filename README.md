@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm [Your Name], a passionate MERN Stack Developer and DSA enthusiast from NIT Jamshedpur. I am excited about software development, web development, and solving algorithmic challenges.
+Hello! I'm Karunya Reddy, a passionate MERN Stack Developer and DSA enthusiast from NIT Jamshedpur. I am excited about software development, web development, and solving algorithmic challenges.
 
 ## About Me
 
-- **Name:** [Karunya Reddy]
+- **Name:** Karunya Reddy
 - **College/University:** National Institute of Technology, Jamshedpur
 - **Major:** CSE
 - **Graduation Year:** 2026
