@@ -13,7 +13,7 @@ Hello! I'm Karunya Reddy, a passionate MERN Stack Developer and DSA enthusiast f
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python, C++
+- **Programming Languages:** JavaScript, Python, C++,Typescript
 - **Web Development:** MongoDB, Express.js, React.js, Node.js
 - **Data Structures & Algorithms:** Proficient in problem-solving and algorithmic challenges
 - **Other Skills:** Git,  REST APIs
