@@ -25,6 +25,7 @@ Hello! I'm Karunya Reddy, a passionate MERN Stack Developer and DSA enthusiast f
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarunyaReddyJ&theme=dracula)
 ![Trophies on GitHub](https://github-profile-trophy.vercel.app/?username=KarunyaReddyJ&theme=onedark)
 ![My LeetCode](https://leetcard.jacoblin.cool/core_thinker?theme=dark&font=Titillium%20Web&ext=contest)
+![My Network](https://karunyareddyj.github.io/My-github-network/)
 ## Projects
 
 ### [Quiz Application] (https://github.com/KarunyaReddyJ/QuizApplication.git)
